@@ -6,7 +6,7 @@ Ich entwickle Backends, Frontends und Pipelines für Unternehmen, oft als techni
 
 ## Projekte
 
-- **[agent-wingman](https://github.com/Robert-Schneckenhaus/agent-wingman):** Code-Index für KI-Agenten wie Claude Code. Du gibst einen Bug-Report, einen Stacktrace oder eine Aufgabe hinein und bekommst die relevanten Code-Stellen zurück, sodass der Agent gezielt arbeitet, statt das Projekt erst zu durchsuchen.
+- **[agent-wingman](https://github.com/Robert-Schneckenhaus/agent-wingman):** Code-Index für KI-Agenten wie Claude Code. Aus einem Bug-Report, einem Stacktrace oder einer Aufgabe ermittelt es die relevanten Code-Stellen, sodass der Agent gezielt arbeitet, statt das Projekt erst zu durchsuchen.
   - **Über Repository-Grenzen hinweg:** verbindet zum Beispiel einen Frontend-Aufruf mit dem passenden Backend-Endpunkt.
   - **Dokumentation inklusive:** verknüpft Spezifikationen, PDFs, Wiki-Seiten und OpenAPI-Beschreibungen mit dem Code, um den es darin geht.
   - **Lokal:** Index und semantische Suche laufen auf dem eigenen Rechner. Code geht nur an einen externen Dienst, wenn man die optionalen KI-Beschreibungen einschaltet.
