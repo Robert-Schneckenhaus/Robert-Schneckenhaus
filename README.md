@@ -6,6 +6,11 @@ Ich entwickle Backends, Frontends und Pipelines für Unternehmen, oft als techni
 
 ## Projekte
 
+- **[agent-wingman](https://github.com/Robert-Schneckenhaus/agent-wingman):** Code-Index für KI-Agenten wie Claude Code. Du gibst einen Bug-Report, einen Stacktrace oder eine Aufgabe hinein und bekommst die relevanten Code-Stellen zurück, sodass der Agent gezielt arbeitet, statt das Projekt erst zu durchsuchen.
+  - **Über Repository-Grenzen hinweg:** verbindet zum Beispiel einen Frontend-Aufruf mit dem passenden Backend-Endpunkt.
+  - **Dokumentation inklusive:** verknüpft Spezifikationen, PDFs, Wiki-Seiten und OpenAPI-Beschreibungen mit dem Code, um den es darin geht.
+  - **Lokal:** Index und semantische Suche laufen auf dem eigenen Rechner. Code geht nur an einen externen Dienst, wenn man die optionalen KI-Beschreibungen einschaltet.
+  - **Breit einsetzbar:** unterstützt TypeScript, JavaScript, C#, Java, Python, PHP, C und C++ und wird mit einem Befehl in Claude Code eingebunden.
 - **[CShift](https://github.com/Robert-Schneckenhaus/CShift):** Native, C#-ähnliche Systemsprache mit selbst-hostendem Compiler und Backends für LLVM, WebAssembly und Motorola 68000/AmigaOS.
 - **[Ambermoon.net](https://github.com/Pyrdacor/Ambermoon.net):** Neuimplementierung des Amiga-Rollenspiels Ambermoon in C#, mit eigener 2D/3D-Engine. Über 500 Sterne, entstanden unter meinem zweiten Konto [Pyrdacor](https://github.com/Pyrdacor).
 - **[freeserf.net](https://github.com/Pyrdacor/freeserf.net):** Portierung eines Settlers-1-Klons von C++ nach C#, mit neuer OpenGL-Engine.
