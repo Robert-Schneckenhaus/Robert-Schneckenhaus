@@ -11,6 +11,7 @@ Ich entwickle Backends, Frontends und Pipelines für Unternehmen, oft als techni
   - **Dokumentation inklusive:** verknüpft Spezifikationen, PDFs, Wiki-Seiten und OpenAPI-Beschreibungen mit dem Code, um den es darin geht.
   - **Lokal:** Index und semantische Suche laufen auf dem eigenen Rechner. Code geht nur an einen externen Dienst, wenn man die optionalen KI-Beschreibungen einschaltet.
   - **Breit einsetzbar:** unterstützt TypeScript, JavaScript, C#, Java, Python, PHP, C und C++ und wird mit einem Befehl in Claude Code eingebunden.
+  - **Lizenz:** frei für Open-Source-Projekte, kommerzielle Nutzung auf Anfrage.
 - **[CShift](https://github.com/Robert-Schneckenhaus/CShift):** Native, C#-ähnliche Systemsprache mit selbst-hostendem Compiler und Backends für LLVM, WebAssembly und Motorola 68000/AmigaOS.
 - **[Ambermoon.net](https://github.com/Pyrdacor/Ambermoon.net):** Neuimplementierung des Amiga-Rollenspiels Ambermoon in C#, mit eigener 2D/3D-Engine. Über 500 Sterne, entstanden unter meinem zweiten Konto [Pyrdacor](https://github.com/Pyrdacor).
 - **[freeserf.net](https://github.com/Pyrdacor/freeserf.net):** Portierung eines Settlers-1-Klons von C++ nach C#, mit neuer OpenGL-Engine.
